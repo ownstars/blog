@@ -1,0 +1,21 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Weibo: https://weibo.com/1167064912/
+    GitHub: https://github.com/ownstars
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /logo.png
+
+# Comment
+# e.g disqus: seansun
+disqus: yimao  
+duoshuo:
+
+# Analytics
+# google-analytics:
+# ga: UA-xxxxxxxx-x
+
+# Copyright Infomation
+startyear: 2019
