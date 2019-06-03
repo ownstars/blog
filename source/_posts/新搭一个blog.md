@@ -3,7 +3,7 @@ title: 新搭一个blog
 date: 2019-06-02 13:39:00
 categories:
 	- misc
-	
+
 tags:
 ---
 
@@ -17,5 +17,5 @@ tags:
 
 借一句台词，这是一个新的开始。
 
-![KOKIA live](/images/kokia.jpg)
+![KOKIA live](/images/misc/kokia.jpg)
 
