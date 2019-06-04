@@ -742,3 +742,11 @@ footer .copyright a:hover {
 	font-weight: normal;
 	font-style: normal
 }
+
+/* Image caption settings*/
+.image-caption {
+	margin-top: -1em;
+	display: block;
+	font-style: oblique;
+	text-align: center;
+}

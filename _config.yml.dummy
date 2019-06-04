@@ -75,6 +75,11 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: apollo
 
+# Image caption
+image_caption:
+  enable: true
+  class_name: image-caption
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
