@@ -750,3 +750,9 @@ footer .copyright a:hover {
 	font-style: oblique;
 	text-align: center;
 }
+
+/* Tag style*/
+.tag-title {
+	margin-right: 7px;
+	color: #f1a17d;
+}
