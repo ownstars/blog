@@ -338,7 +338,7 @@ header .nav-list-item a {
 
 .archive .post-title-link:hover {
 	border-bottom: 0;
-	color: #267B54
+	color: #d88e6d
 }
 
 .archive .post-info {
@@ -721,7 +721,6 @@ footer {
 }
 
 footer .copyright {
-	margin: 4em 0;
 	border-top: 1px solid #ddd;
 	text-align: center
 }
@@ -749,6 +748,8 @@ footer .copyright a:hover {
 	display: block;
 	font-style: oblique;
 	text-align: center;
+	color: #7f8c8d;
+	font-size: 13px;
 }
 
 /* Tag style*/

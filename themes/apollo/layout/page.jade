@@ -1,0 +1,10 @@
+extends partial/layout
+
+block mstyle
+    link(rel="stylesheet", href=url_for("css/motivational.css"))
+
+block container
+    script(src=url_for("js/poster.js"))
+
+block copyright
+    include partial/copyright

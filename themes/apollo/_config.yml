@@ -1,8 +1,9 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: https://weibo.com/1167064912/
-    GitHub: https://github.com/ownstars
+    # Weibo: https://weibo.com/1167064912/
+    Motivational!: /motivational/
+    # GitHub: https://github.com/ownstars
     Rss: /atom.xml
 
 favicon: /favicon.png

@@ -83,8 +83,12 @@ image_caption:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: sftp
-  host: 
-  user: 
-  pass: 
-  remotePath: /var/www/
+  type: rsync
+  host: yimao.me
+  user: root
+  root: /var/www
+  port: 22
+  delete: true
+  verbose: true
+  ignore_errors: false
+

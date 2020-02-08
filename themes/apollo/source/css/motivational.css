@@ -1,0 +1,22 @@
+body {
+	background-color: #000;
+}
+
+a, a:active {
+	color: #fdcc30;
+}
+
+footer .copyright {
+	border-top: 1px solid #fdcc30;
+}
+
+footer .copyright a {
+	color: #d1d1d1;
+}
+
+img.poster {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
